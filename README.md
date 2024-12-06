@@ -15,13 +15,7 @@ After cloning this git repo download the dataset from [here](https://archive.ics
 2. go to or cd pharma-friend folder
 3. pip install -r requirements.txt
 
-   # Contributors
-   Mohit Prajapati (LCB2021047)
-   Anshu Verma (LCB2021043)
-   Govind Patidat (LCB2021034)
-   Badri Akkala (LCB2021029)
-
-
+  
 
 
 
